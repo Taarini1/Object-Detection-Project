@@ -1,0 +1,22 @@
+body{
+   
+    background-position: center;
+}
+
+h1{
+    color:white;
+    text-align: center;
+    background-color: rgb(98, 0, 255);
+}
+
+.status{
+    text-align: center;
+width:2000px;
+    background-color: rgb(98, 0, 255);
+    color:crimson
+}
+
+a{
+    margin-right: 100px;
+    margin-left: 70px;
+}
